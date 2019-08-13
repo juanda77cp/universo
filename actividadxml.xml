@@ -15,6 +15,11 @@
 		<organo>Encéfalo
 			<organo>cerebro</organo>
 			<organo>cerebelobulbo raquídeo</organo>
+			<vesicula nombre="Telencéfalo"/>
+			<vesicula nombre="Diencéfalo"/>
+			<vesicula nombre="Mesencéfalo"/>
+			<vesicula nombre="Metencéfalo"/>
+			<vesicula nombre="Mielencéfalo"/>
 		</organo>
 		<organo>medula espinal</organo>
 		
