@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sistema_nervioso>
 	<organos_sentidos>
-		<organo_principal>Cerebro</organo_principal>
-		<organo_vista>Ojos</organo_vista>
-		<organo_escucha>Oído</organo_escucha>
-		<organo_gusto>Lengua</organo_gusto>
-		<organo_tacto>Piel</organo_tacto>
-		<organo_olfato>Nariz</organo_olfato>
+		<organo tipo="principal">Cerebro</organo_principal>
+		<organo tipo="vista">Ojos</organo>
+		<organo tipo="escucha">Oído</organo>
+		<organo tipo"gusto">Lengua</organo>
+		<organo tipo="tacto">Piel</organo>
+		<organotipo="olfato">Nariz</organo>
 	</organos_sentidos>
 	<sistema_nervioso_central>
-		<encefalo>cerebro, cerebelo y bulbo raquídeo</encefalo>
-		<médula_espinal/>
+		<organo>Encéfalo
+			<organo>cerebro</organo>
+			<organo>cerebelobulbo raquídeo</organo>
+		</organo>
+		<organo>medula espinal</organo>
 	</sistema_nervioso_central>
 	<sistema_nervioso_periferico>
 		<nervios_aferentes/>
